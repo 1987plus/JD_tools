@@ -10,9 +10,9 @@ import time
 #######################
 
 # [0,1,2,3]  0:不通知     1:server酱      2:SMTP邮件服务        3:bark服务
-needYou2Know = 0
+needYou2Know = 1
 
-SCKEY = ''        # Server酱的SCKEY
+SCKEY = 'SCU153267T7ea46da48c2d70020bbf7a283cf715bf600a2de04914e'        # Server酱的SCKEY
 
 email_dict = {
     "sender": '',                 # ① sender是邮件发送人邮箱
